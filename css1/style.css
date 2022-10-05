@@ -1,0 +1,40 @@
+.rd{
+   
+    flex: 0 0 !important;
+ }
+ #bb{
+border-bottom: 1px solid grey;
+ }
+ .bimg img{
+    width: 100%;
+ }
+.tt{
+    
+    text-align: end;
+}
+
+.tt2{
+    text-align: left;
+    font-size: 3.5rem ;
+}
+ .txt{
+    display: inline-block;
+    font-size: 40px;
+    color: #f15767;
+ }
+ .im img{
+    width: 100%;
+ }
+
+ .footer {
+     
+}
+
+.cc{
+    background-color: #008aff;
+    padding: 20px;
+}
+ #sp span{
+    color: #feffff !important;
+    font-weight: 400;
+ }
